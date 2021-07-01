@@ -22,3 +22,5 @@ git commit -m "como identificare el commit"
 (-m indica que puedo hacer comentarios multilinea)
 Tú21:10
 git push origin 'Rama en la que vamos a mandar el commit'
+
+enchiladas 
